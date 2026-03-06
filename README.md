@@ -1,7 +1,7 @@
 # Krishna Kumar
 
 **B.Tech Artificial Intelligence student** | Hyderabad, India  
-📧 krishnakumarum7@gmail.com • 📞 +91-9848869590 • [LinkedIn](https://linkedin.com/in/krishna-kumar-a8b15a333)
+📧 krishnakumarum7@gmail.com • 📞 +91-9848869590 • [LinkedIn](https://www.linkedin.com/in/krishna08-kumar/)
 
 ---
 
