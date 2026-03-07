@@ -28,7 +28,10 @@ I'm a B.Tech (Artificial Intelligence) student with a strong foundation in Core 
 - Evaluated using confusion matrices and classification reports; visualized class-wise predictions. 
 
 ### Crop Recommendation Model (Machine Learning)
-- Python-based system using scikit-learn and Pandas to suggest optimal crops from environmental inputs. 
+- Developed a machine learning–based Crop Recommendation System that predicts the most suitable crop using soil nutrients (N, P, K), temperature, humidity, pH, and rainfall data.
+- Trained and evaluated classification models to generate accurate crop predictions and improve agricultural decision-making.
+- Deployed the model as an interactive web application using Streamlit, allowing users to input environmental parameters and receive real-time crop recommendations.
+- 
 ### Maze Solver Robot
 - Autonomous robot with IR sensors and Arduino; implemented line-following and pathfinding algorithms. 
 **Notable links**
